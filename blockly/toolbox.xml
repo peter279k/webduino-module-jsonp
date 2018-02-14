@@ -1,0 +1,71 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><block type="factory_base" id=")@@+3ym}Vpd4+KO)hExl" deletable="false" movable="false" x="0" y="0">
+    <mutation connections="LEFT"></mutation>
+    <field name="NAME">hello_world</field>
+    <field name="INLINE">AUTO</field>
+    <field name="CONNECTIONS">LEFT</field>
+    <statement name="INPUTS">
+      <block type="input_value" id="H:cEz??M|rST-~:2K:wp">
+        <field name="INPUTNAME">str</field>
+        <field name="ALIGN">LEFT</field>
+        <value name="TYPE">
+          <shadow type="type_null" id="?{1)wr@c!s=d-x~}!h|{"></shadow>
+          <block type="type_string" id="i(b}AHY4*swy3jR.bM{9"></block>
+        </value>
+      </block>
+    </statement>
+    <value name="TOOLTIP">
+      <block type="text" id="@;jS+6@_t|IAF%9R79`l" deletable="false" movable="false">
+        <field name="TEXT"></field>
+      </block>
+    </value>
+    <value name="HELPURL">
+      <block type="text" id="bEf`DgJhV8BF}(k3z^ch" deletable="false" movable="false">
+        <field name="TEXT"></field>
+      </block>
+    </value>
+    <value name="OUTPUTTYPE">
+      <shadow type="type_null" id="C4I}CnN:[*}m(U-_%87o"></shadow>
+      <block type="type_string" id="%~v)ejy)$#(1D_cae@GO"></block>
+    </value>
+    <value name="COLOUR">
+      <block type="colour_hue" id="k,/g.l;+;^-|Ng91]Imm">
+        <mutation colour="#a5935b"></mutation>
+        <field name="HUE">45</field>
+      </block>
+    </value>
+  </block><block type="factory_base" id=")@@+3ym}Vpd4+KO)hExl" deletable="false" movable="false" x="0" y="0">
+    <mutation connections="LEFT"></mutation>
+    <field name="NAME">hello</field>
+    <field name="INLINE">AUTO</field>
+    <field name="CONNECTIONS">LEFT</field>
+    <statement name="INPUTS">
+      <block type="input_value" id="H:cEz??M|rST-~:2K:wp">
+        <field name="INPUTNAME">str</field>
+        <field name="ALIGN">LEFT</field>
+        <value name="TYPE">
+          <shadow type="type_null" id="?{1)wr@c!s=d-x~}!h|{"></shadow>
+          <block type="type_string" id="i(b}AHY4*swy3jR.bM{9"></block>
+        </value>
+      </block>
+    </statement>
+    <value name="TOOLTIP">
+      <block type="text" id="@;jS+6@_t|IAF%9R79`l" deletable="false" movable="false">
+        <field name="TEXT"></field>
+      </block>
+    </value>
+    <value name="HELPURL">
+      <block type="text" id="bEf`DgJhV8BF}(k3z^ch" deletable="false" movable="false">
+        <field name="TEXT">hptts://github.com/peter279k</field>
+      </block>
+    </value>
+    <value name="OUTPUTTYPE">
+      <shadow type="type_null" id="C4I}CnN:[*}m(U-_%87o"></shadow>
+      <block type="type_string" id="%~v)ejy)$#(1D_cae@GO"></block>
+    </value>
+    <value name="COLOUR">
+      <block type="colour_hue" id="k,/g.l;+;^-|Ng91]Imm">
+        <mutation colour="#a5935b"></mutation>
+        <field name="HUE">45</field>
+      </block>
+    </value>
+  </block></xml>
