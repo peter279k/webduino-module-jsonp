@@ -63,3 +63,17 @@ Blockly.Blocks['jsonp_data_by_key'] = {
     this.setHelpUrl('http://www.example.com/');
   }
 };
+
+
+Blockly.Blocks['hello_blockly'] = {
+    init: function() {
+      this.appendValueInput("input_string")
+          .setCheck("String")
+          .appendField("hello");
+      this.setInputsInline(true);
+      this.setOutput(true, "String");
+      this.setColour(230);
+      this.setTooltip('');
+      this.setHelpUrl('http://www.example.com/');
+    }
+};
