@@ -25,6 +25,7 @@
     });
 
     proto.fetch = function(cb) {
+        console.log('fetching json...');
         $.getJSON(self._fetchURL, function(json) {
             self._jsonList = json;
             cb();
