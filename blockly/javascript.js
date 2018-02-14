@@ -28,11 +28,3 @@ Blockly.JavaScript['jsonp_data_by_key'] = function(block) {
     var code = variable_jsonp + '.dataFilter("'+text_key+'","'+text_value+'","'+text_data+'")';
     return [code, Blockly.JavaScript.ORDER_NONE];
 };
-
-Blockly.JavaScript['hello_blockly'] = function(block) {
-    var value_input_string = Blockly.JavaScript.valueToCode(block, 'input_string', Blockly.JavaScript.ORDER_ATOMIC);
-    // TODO: Assemble JavaScript into code variable.
-    var code = '...';
-    // TODO: Change ORDER_NONE to the correct strength.
-    return [code, Blockly.JavaScript.ORDER_NONE];
-};
