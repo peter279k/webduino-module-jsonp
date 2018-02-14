@@ -1,13 +1,13 @@
 {
-  "types": ["jsonp_new","jsonp_fetch","jsonp_data","hello_blockly"],
+  "types": ["hello_world"],
   "category": "toolbox",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"
   ],
   "dependencies": [
-    "JSONP.js",
-    "JSONP-blockly.js"
+    "hello.js",
+    "hello-blockly.js"
   ],
   "msg": "blockly/msg",
   "blocksMsg": "blockly/msg/blocks",
