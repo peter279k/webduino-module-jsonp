@@ -1,1 +1,1 @@
-MSG.catJSONP = "JSONP";
+MSG.hello = "hello";
